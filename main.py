@@ -12,7 +12,7 @@ app.add_middleware(
 )
 
 @app.get("/")
-def getinfop():
+def getinfo():
 
     current_time = datetime.now(timezone.utc)
     formatted_time = current_time.isoformat(timespec="seconds").replace("+00:00", 'Z')
