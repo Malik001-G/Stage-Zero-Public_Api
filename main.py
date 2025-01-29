@@ -22,5 +22,4 @@ def getinfo():
         "current_datetime": formatted_time,
         "github_url": "https://github.com/Malik001-G/Stage-Zero-Public_Api"
     }
-
     return data
