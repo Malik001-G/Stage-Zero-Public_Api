@@ -13,6 +13,11 @@ pip install -r requirements.txt
 -Run the application
 uvicorn main:app --reload
 
+
+### Back link 
+- https://hng.tech/hire/python-developers
+
+
 ## API Documentation
 - [API Docs](https://stage-zero-public-api.vercel.app/docs)
 
@@ -29,5 +34,3 @@ uvicorn main:app --reload
   "github_url": "https://github.com/Malik001-G/Stage-Zero-Public_Api"
 }
 
-### Back link 
-- https://hng.tech/hire/python-developers
